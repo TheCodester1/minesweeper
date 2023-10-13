@@ -1,1 +1,1 @@
-# minesweeper
+# Minesweeper tutorial by Kenny Yip Coding
